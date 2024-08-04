@@ -7,10 +7,7 @@ This project uses data science and machine learning to predict laptop prices bas
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -35,25 +32,6 @@ The Laptop Price Estimator is a machine learning project aimed at predicting the
     cd Laptop-Price-Estimator
     ```
 
-## Usage
-
-1. Prepare the dataset and place it in the `data/` directory.
-2. Run the preprocessing script:
-    ```bash
-    python src/preprocess.py
-    ```
-3. Train the model:
-    ```bash
-    python src/train.py
-    ```
-4. Evaluate the model:
-    ```bash
-    python src/evaluate.py
-    ```
-5. Deploy the model:
-    ```bash
-    python src/deploy.py
-    ```
 
 
 ## Contributing
