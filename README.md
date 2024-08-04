@@ -28,15 +28,11 @@ The Laptop Price Estimator is a machine learning project aimed at predicting the
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/laptop-price-estimator.git
+    git clone https://github.com/dhruvpal102005/Laptop-Price-Estimator.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd laptop-price-estimator
-    ```
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
+    cd Laptop-Price-Estimator
     ```
 
 ## Usage
